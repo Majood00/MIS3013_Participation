@@ -1,0 +1,12 @@
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\SumOf3\SumOf3\bin\Debug\netcoreapp3.1\SumOf3.exe
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\SumOf3\SumOf3\bin\Debug\netcoreapp3.1\SumOf3.deps.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\SumOf3\SumOf3\bin\Debug\netcoreapp3.1\SumOf3.runtimeconfig.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\SumOf3\SumOf3\bin\Debug\netcoreapp3.1\SumOf3.runtimeconfig.dev.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\SumOf3\SumOf3\bin\Debug\netcoreapp3.1\SumOf3.dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\SumOf3\SumOf3\bin\Debug\netcoreapp3.1\SumOf3.pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\SumOf3\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.AssemblyInfoInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\SumOf3\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.AssemblyInfo.cs
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\SumOf3\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.csproj.CoreCompileInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\SumOf3\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\SumOf3\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\SumOf3\SumOf3\obj\Debug\netcoreapp3.1\SumOf3.genruntimeconfig.cache

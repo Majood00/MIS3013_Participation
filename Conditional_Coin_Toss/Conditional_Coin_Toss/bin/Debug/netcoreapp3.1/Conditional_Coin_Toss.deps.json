@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Conditional_Coin_Toss/1.0.0": {
+        "runtime": {
+          "Conditional_Coin_Toss.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conditional_Coin_Toss/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

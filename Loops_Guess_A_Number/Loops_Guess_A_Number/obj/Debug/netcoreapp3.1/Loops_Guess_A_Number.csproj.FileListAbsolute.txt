@@ -1,0 +1,13 @@
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Loops_Guess_A_Number\Loops_Guess_A_Number\bin\Debug\netcoreapp3.1\Loops_Guess_A_Number.exe
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Loops_Guess_A_Number\Loops_Guess_A_Number\bin\Debug\netcoreapp3.1\Loops_Guess_A_Number.deps.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Loops_Guess_A_Number\Loops_Guess_A_Number\bin\Debug\netcoreapp3.1\Loops_Guess_A_Number.runtimeconfig.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Loops_Guess_A_Number\Loops_Guess_A_Number\bin\Debug\netcoreapp3.1\Loops_Guess_A_Number.runtimeconfig.dev.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Loops_Guess_A_Number\Loops_Guess_A_Number\bin\Debug\netcoreapp3.1\Loops_Guess_A_Number.dll
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Loops_Guess_A_Number\Loops_Guess_A_Number\bin\Debug\netcoreapp3.1\Loops_Guess_A_Number.pdb
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Loops_Guess_A_Number\Loops_Guess_A_Number\obj\Debug\netcoreapp3.1\Loops_Guess_A_Number.csproj.AssemblyReference.cache
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Loops_Guess_A_Number\Loops_Guess_A_Number\obj\Debug\netcoreapp3.1\Loops_Guess_A_Number.AssemblyInfoInputs.cache
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Loops_Guess_A_Number\Loops_Guess_A_Number\obj\Debug\netcoreapp3.1\Loops_Guess_A_Number.AssemblyInfo.cs
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Loops_Guess_A_Number\Loops_Guess_A_Number\obj\Debug\netcoreapp3.1\Loops_Guess_A_Number.csproj.CoreCompileInputs.cache
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Loops_Guess_A_Number\Loops_Guess_A_Number\obj\Debug\netcoreapp3.1\Loops_Guess_A_Number.dll
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Loops_Guess_A_Number\Loops_Guess_A_Number\obj\Debug\netcoreapp3.1\Loops_Guess_A_Number.pdb
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Loops_Guess_A_Number\Loops_Guess_A_Number\obj\Debug\netcoreapp3.1\Loops_Guess_A_Number.genruntimeconfig.cache

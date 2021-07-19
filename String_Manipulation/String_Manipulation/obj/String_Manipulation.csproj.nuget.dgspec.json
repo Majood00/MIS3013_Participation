@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Conditional_Coin_Toss\\Conditional_Coin_Toss\\Conditional_Coin_Toss.csproj": {}
+    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\String_Manipulation\\String_Manipulation\\String_Manipulation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Conditional_Coin_Toss\\Conditional_Coin_Toss\\Conditional_Coin_Toss.csproj": {
+    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\String_Manipulation\\String_Manipulation\\String_Manipulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Conditional_Coin_Toss\\Conditional_Coin_Toss\\Conditional_Coin_Toss.csproj",
-        "projectName": "Conditional_Coin_Toss",
-        "projectPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Conditional_Coin_Toss\\Conditional_Coin_Toss\\Conditional_Coin_Toss.csproj",
+        "projectUniqueName": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\String_Manipulation\\String_Manipulation\\String_Manipulation.csproj",
+        "projectName": "String_Manipulation",
+        "projectPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\String_Manipulation\\String_Manipulation\\String_Manipulation.csproj",
         "packagesPath": "C:\\Users\\majdh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Conditional_Coin_Toss\\Conditional_Coin_Toss\\obj\\",
+        "outputPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\String_Manipulation\\String_Manipulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\majdh\\AppData\\Roaming\\NuGet\\NuGet.Config",

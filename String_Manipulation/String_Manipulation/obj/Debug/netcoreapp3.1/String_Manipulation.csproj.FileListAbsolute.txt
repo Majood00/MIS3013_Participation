@@ -1,0 +1,13 @@
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\String_Manipulation\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.exe
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\String_Manipulation\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.deps.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\String_Manipulation\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.runtimeconfig.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\String_Manipulation\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.runtimeconfig.dev.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\String_Manipulation\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\String_Manipulation\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\String_Manipulation\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.csproj.AssemblyReference.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\String_Manipulation\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.AssemblyInfoInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\String_Manipulation\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.AssemblyInfo.cs
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\String_Manipulation\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\String_Manipulation\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\String_Manipulation\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\String_Manipulation\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.genruntimeconfig.cache

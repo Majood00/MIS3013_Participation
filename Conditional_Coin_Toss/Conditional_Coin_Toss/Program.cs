@@ -8,23 +8,38 @@ namespace Conditional_Coin_Toss
         {
             Random rand = new Random();
             int number = rand.Next(1, 3);
-            Console.WriteLine(number);
+            const int HEADS = 1;
+            const int TAILS = 2;
 
             Console.WriteLine("Heads or Tails? Please select one.");
             string response = Console.ReadLine();
+            int guess = -1;
+            
 
-            string guess;
-
-            if (number == 1)
+            if (response == "Heads")
             {
-                guess = "Heads";
+                guess = HEADS;
+            }
+            else if (response == "Tails")
+            {
+                guess = TAILS;
             }
             else
             {
-                guess = "Tails";
+                Console.WriteLine("Invalid input. Bye.");
+                Environment.Exit(-1);
             }
 
-            if (response.ToUpper() == guess.ToUpper())
+            if (number == HEADS)
+            {
+                Console.WriteLine("Heads");
+            }
+            else
+            {
+                Console.WriteLine("Tails");
+            }
+                
+            if (number == guess)
             {
                 Console.WriteLine("Your guess was correct.");
             }

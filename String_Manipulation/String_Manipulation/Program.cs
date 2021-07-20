@@ -34,12 +34,10 @@ namespace String_Manipulation
                 }
 
                 Console.WriteLine(reversestring);
-
-                if (sentence.Contains(reversestring))
-                {
-                    Console.WriteLine(sentence.Replace(reversestring, newWord));
-                }
-
+            }
+            else
+            {
+                Console.WriteLine(sentence.Replace(word, newWord));
             }
         }
     }

@@ -17,7 +17,6 @@ namespace Loops_Guess_A_Number
 
             Random rand = new Random();
             int number = rand.Next(lower, upper + 1);
-            Console.WriteLine(number);
 
             int guessedNumber;
 

@@ -39,7 +39,7 @@ namespace Loops_Guess_A_Number
                 }
                 else if (guessedNumber > number)
                 {
-                    Console.ForegroundColor = ConsoleColor.Magenta;
+                    Console.ForegroundColor = ConsoleColor.DarkBlue;
                     Console.WriteLine("You guessed too high.");
                     Console.ForegroundColor = ConsoleColor.White;
                 }

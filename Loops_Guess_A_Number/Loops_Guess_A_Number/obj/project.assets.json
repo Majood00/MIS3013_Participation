@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Loops_Guess_A_Number\\Loops_Guess_A_Number\\Loops_Guess_A_Number.csproj",
+      "projectUniqueName": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Loops_Guess_A_Number\\Loops_Guess_A_Number\\Loops_Guess_A_Number.csproj",
       "projectName": "Loops_Guess_A_Number",
-      "projectPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Loops_Guess_A_Number\\Loops_Guess_A_Number\\Loops_Guess_A_Number.csproj",
+      "projectPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Loops_Guess_A_Number\\Loops_Guess_A_Number\\Loops_Guess_A_Number.csproj",
       "packagesPath": "C:\\Users\\majdh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Loops_Guess_A_Number\\Loops_Guess_A_Number\\obj\\",
+      "outputPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Loops_Guess_A_Number\\Loops_Guess_A_Number\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\majdh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

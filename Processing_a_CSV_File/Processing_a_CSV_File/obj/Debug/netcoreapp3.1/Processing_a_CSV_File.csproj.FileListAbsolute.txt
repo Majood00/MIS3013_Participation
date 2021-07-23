@@ -1,0 +1,14 @@
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\bin\Debug\netcoreapp3.1\sales_data_sample.csv
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\bin\Debug\netcoreapp3.1\Processing_a_CSV_File.exe
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\bin\Debug\netcoreapp3.1\Processing_a_CSV_File.deps.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\bin\Debug\netcoreapp3.1\Processing_a_CSV_File.runtimeconfig.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\bin\Debug\netcoreapp3.1\Processing_a_CSV_File.runtimeconfig.dev.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\bin\Debug\netcoreapp3.1\Processing_a_CSV_File.dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\bin\Debug\netcoreapp3.1\Processing_a_CSV_File.pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\obj\Debug\netcoreapp3.1\Processing_a_CSV_File.csproj.AssemblyReference.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\obj\Debug\netcoreapp3.1\Processing_a_CSV_File.AssemblyInfoInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\obj\Debug\netcoreapp3.1\Processing_a_CSV_File.AssemblyInfo.cs
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\obj\Debug\netcoreapp3.1\Processing_a_CSV_File.csproj.CoreCompileInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\obj\Debug\netcoreapp3.1\Processing_a_CSV_File.dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\obj\Debug\netcoreapp3.1\Processing_a_CSV_File.pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Processing_a_CSV_File\Processing_a_CSV_File\obj\Debug\netcoreapp3.1\Processing_a_CSV_File.genruntimeconfig.cache

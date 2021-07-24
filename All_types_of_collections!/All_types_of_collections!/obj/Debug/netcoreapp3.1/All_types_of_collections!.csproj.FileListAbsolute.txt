@@ -1,0 +1,13 @@
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\All_types_of_collections!\All_types_of_collections!\bin\Debug\netcoreapp3.1\All_types_of_collections!.exe
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\All_types_of_collections!\All_types_of_collections!\bin\Debug\netcoreapp3.1\All_types_of_collections!.deps.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\All_types_of_collections!\All_types_of_collections!\bin\Debug\netcoreapp3.1\All_types_of_collections!.runtimeconfig.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\All_types_of_collections!\All_types_of_collections!\bin\Debug\netcoreapp3.1\All_types_of_collections!.runtimeconfig.dev.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\All_types_of_collections!\All_types_of_collections!\bin\Debug\netcoreapp3.1\All_types_of_collections!.dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\All_types_of_collections!\All_types_of_collections!\bin\Debug\netcoreapp3.1\All_types_of_collections!.pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\All_types_of_collections!\All_types_of_collections!\obj\Debug\netcoreapp3.1\All_types_of_collections!.csproj.AssemblyReference.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\All_types_of_collections!\All_types_of_collections!\obj\Debug\netcoreapp3.1\All_types_of_collections!.AssemblyInfoInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\All_types_of_collections!\All_types_of_collections!\obj\Debug\netcoreapp3.1\All_types_of_collections!.AssemblyInfo.cs
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\All_types_of_collections!\All_types_of_collections!\obj\Debug\netcoreapp3.1\All_types_of_collections!.csproj.CoreCompileInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\All_types_of_collections!\All_types_of_collections!\obj\Debug\netcoreapp3.1\All_types_of_collections!.dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\All_types_of_collections!\All_types_of_collections!\obj\Debug\netcoreapp3.1\All_types_of_collections!.pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\All_types_of_collections!\All_types_of_collections!\obj\Debug\netcoreapp3.1\All_types_of_collections!.genruntimeconfig.cache

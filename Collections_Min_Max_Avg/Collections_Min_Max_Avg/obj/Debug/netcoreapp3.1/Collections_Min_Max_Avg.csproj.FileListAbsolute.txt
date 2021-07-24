@@ -1,0 +1,13 @@
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Collections_Min_Max_Avg\Collections_Min_Max_Avg\bin\Debug\netcoreapp3.1\Collections_Min_Max_Avg.exe
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Collections_Min_Max_Avg\Collections_Min_Max_Avg\bin\Debug\netcoreapp3.1\Collections_Min_Max_Avg.deps.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Collections_Min_Max_Avg\Collections_Min_Max_Avg\bin\Debug\netcoreapp3.1\Collections_Min_Max_Avg.runtimeconfig.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Collections_Min_Max_Avg\Collections_Min_Max_Avg\bin\Debug\netcoreapp3.1\Collections_Min_Max_Avg.runtimeconfig.dev.json
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Collections_Min_Max_Avg\Collections_Min_Max_Avg\bin\Debug\netcoreapp3.1\Collections_Min_Max_Avg.dll
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Collections_Min_Max_Avg\Collections_Min_Max_Avg\bin\Debug\netcoreapp3.1\Collections_Min_Max_Avg.pdb
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Collections_Min_Max_Avg\Collections_Min_Max_Avg\obj\Debug\netcoreapp3.1\Collections_Min_Max_Avg.csproj.AssemblyReference.cache
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Collections_Min_Max_Avg\Collections_Min_Max_Avg\obj\Debug\netcoreapp3.1\Collections_Min_Max_Avg.AssemblyInfoInputs.cache
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Collections_Min_Max_Avg\Collections_Min_Max_Avg\obj\Debug\netcoreapp3.1\Collections_Min_Max_Avg.AssemblyInfo.cs
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Collections_Min_Max_Avg\Collections_Min_Max_Avg\obj\Debug\netcoreapp3.1\Collections_Min_Max_Avg.csproj.CoreCompileInputs.cache
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Collections_Min_Max_Avg\Collections_Min_Max_Avg\obj\Debug\netcoreapp3.1\Collections_Min_Max_Avg.dll
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Collections_Min_Max_Avg\Collections_Min_Max_Avg\obj\Debug\netcoreapp3.1\Collections_Min_Max_Avg.pdb
+C:\Users\majdh\Source\Repos\Majood00\MIS3013_Participation\Collections_Min_Max_Avg\Collections_Min_Max_Avg\obj\Debug\netcoreapp3.1\Collections_Min_Max_Avg.genruntimeconfig.cache

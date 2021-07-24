@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Conditional_Coin_Toss\\Conditional_Coin_Toss\\Conditional_Coin_Toss.csproj",
-      "projectName": "Conditional_Coin_Toss",
-      "projectPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Conditional_Coin_Toss\\Conditional_Coin_Toss\\Conditional_Coin_Toss.csproj",
+      "projectUniqueName": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg.csproj",
+      "projectName": "Collections_Min_Max_Avg",
+      "projectPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg.csproj",
       "packagesPath": "C:\\Users\\majdh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Conditional_Coin_Toss\\Conditional_Coin_Toss\\obj\\",
+      "outputPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\majdh\\AppData\\Roaming\\NuGet\\NuGet.Config",

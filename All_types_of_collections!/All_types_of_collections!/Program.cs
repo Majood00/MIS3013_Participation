@@ -36,7 +36,7 @@ namespace All_types_of_collections_
                 string courseNumber = courseNumbers[i];
                 Console.WriteLine($"{subject}{courseNumber}");
             }
-            
+
             //List
             List<double> coursegrades = new List<double>();
 
@@ -73,6 +73,38 @@ namespace All_types_of_collections_
             Console.WriteLine($"Your grade average is {average.ToString("N2")}");
 
             // Dictionary
+            Dictionary<string, List<double>> students = new Dictionary<string, List<double>>();
+
+            List<double> list1 = new List<double>();
+            list1.Add(0.95);
+            list1.Add(0.80);
+            list1.Add(0.75);
+
+            List<double> list2 = new List<double>();
+            list2.Add(0.85);
+            list2.Add(0.70);
+            list2.Add(0.85);
+
+            List<double> list3 = new List<double>();
+            list3.Add(1.00);
+            list3.Add(0.90);
+            list3.Add(0.95);
+
+            students.Add("BME 3333", list1);
+            students.Add("MIS 3013", list2);
+            students.Add("MTHR 1113", list3);
+
+            double total = 0;
+            
+            /*foreach (var value in students.Values)
+            {
+                total += Convert.ToDouble(value);
+            }
+
+            double aver = total / students.Values.Count;
+            Console.WriteLine($"Your grade average for {students.Keys}is {aver.ToString("N2")}");*/
+
+
         }
     }
 }

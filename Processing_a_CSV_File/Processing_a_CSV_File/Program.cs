@@ -24,7 +24,7 @@ namespace Processing_a_CSV_File
             for (int i = 1; i < contents.Length; i++)
             {
 
-                    string line = contents[i];
+                string line = contents[i];
 
                 string[] pieces = line.Split(',');
 

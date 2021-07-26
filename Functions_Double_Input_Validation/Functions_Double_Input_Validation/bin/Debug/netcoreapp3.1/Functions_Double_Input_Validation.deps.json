@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Functions_Double_Input_Validation/1.0.0": {
+        "runtime": {
+          "Functions_Double_Input_Validation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Functions_Double_Input_Validation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

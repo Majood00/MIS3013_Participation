@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\All_types_of_collections!\\All_types_of_collections!\\All_types_of_collections!.csproj": {}
+    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Functions_Calculator\\Functions_Calculator\\Functions_Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\All_types_of_collections!\\All_types_of_collections!\\All_types_of_collections!.csproj": {
+    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Functions_Calculator\\Functions_Calculator\\Functions_Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\All_types_of_collections!\\All_types_of_collections!\\All_types_of_collections!.csproj",
-        "projectName": "All_types_of_collections!",
-        "projectPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\All_types_of_collections!\\All_types_of_collections!\\All_types_of_collections!.csproj",
+        "projectUniqueName": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Functions_Calculator\\Functions_Calculator\\Functions_Calculator.csproj",
+        "projectName": "Functions_Calculator",
+        "projectPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Functions_Calculator\\Functions_Calculator\\Functions_Calculator.csproj",
         "packagesPath": "C:\\Users\\majdh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\All_types_of_collections!\\All_types_of_collections!\\obj\\",
+        "outputPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Functions_Calculator\\Functions_Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\majdh\\AppData\\Roaming\\NuGet\\NuGet.Config",

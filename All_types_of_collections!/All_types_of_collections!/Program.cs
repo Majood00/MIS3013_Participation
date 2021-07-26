@@ -7,7 +7,7 @@ namespace All_types_of_collections_
     {
         static void Main(string[] args)
         {
-            /*// Parallel Arrays
+            // Parallel Arrays
             string[] subjects = new string[3];
 
             string[] courseNumbers = new string[3];
@@ -72,7 +72,7 @@ namespace All_types_of_collections_
             average = sum / coursegrades.Count;
             Console.WriteLine($"Your grade average is {average.ToString("N2")}");
 
-            */ // Dictionary
+            // Dictionary
             Dictionary<string, List<double>> students = new Dictionary<string, List<double>>();
 
             List<double> list1 = new List<double>();
@@ -103,20 +103,16 @@ namespace All_types_of_collections_
             
             foreach (string course in students.Keys)
             {
-                foreach (var grade in students.Values)
+                total = 0;
+
+                foreach (var grade in students[course])
                 {
-                    for (int i = 0; i < studentGrades.Count; i++)
-                    {
-
-                        total += studentGrades;
-                    }
-                    
+                   total += grade;
                 }
+
+                double aver = total / students.Values.Count;
+                Console.WriteLine($"Your grade average for {course} is {aver.ToString("P")}");
             }
-
-            double aver = total / students.Values.Count;
-            Console.WriteLine($"Your grade average for {students.Keys}is {aver.ToString("N2")}");
-
 
         }
     }

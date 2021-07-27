@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg.csproj": {}
+    "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg.csproj": {
+    "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg.csproj",
+        "projectUniqueName": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg.csproj",
         "projectName": "Collections_Min_Max_Avg",
-        "projectPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg.csproj",
+        "projectPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg.csproj",
         "packagesPath": "C:\\Users\\majdh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg\\obj\\",
+        "outputPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Collections_Min_Max_Avg\\Collections_Min_Max_Avg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\majdh\\AppData\\Roaming\\NuGet\\NuGet.Config",

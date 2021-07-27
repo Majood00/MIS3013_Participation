@@ -32,7 +32,7 @@ namespace Functions_Calculator
                     value = Subtract(val1, val2);
                     Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");
                 }
-                else if (typeOfCalculation == "multiplicaation")
+                else if (typeOfCalculation == "multiplication")
                 {
                     value = Multiply(val1, val2);
                     Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");

@@ -6,18 +6,18 @@ namespace Simple_Method__Speak_
     {
         static void Main(string[] args)
         {
-            string sounds = "Please enter a type of animal";
+            Console.WriteLine("Please enter a type of animal");
+            string animal = Console.ReadLine().ToLower();
+
+            string sound = Speak(animal);
             
-            string sound = Speak(sounds);
-            
-            Console.WriteLine($"A ... makes a {sound} sound.");
+            Console.WriteLine($"A {animal} makes a {sound} sound.");
 
         }
 
-        static string Speak(string sounds)
+        static string Speak(string animal)
         {
-            Console.WriteLine(sounds);
-            string animal = Console.ReadLine().ToLower();
+            string sounds;
 
             if (animal == "wolf")
             {

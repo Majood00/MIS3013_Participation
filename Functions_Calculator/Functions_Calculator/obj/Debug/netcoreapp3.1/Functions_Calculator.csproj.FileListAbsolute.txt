@@ -1,0 +1,13 @@
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Functions_Calculator\Functions_Calculator\bin\Debug\netcoreapp3.1\Functions_Calculator.exe
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Functions_Calculator\Functions_Calculator\bin\Debug\netcoreapp3.1\Functions_Calculator.deps.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Functions_Calculator\Functions_Calculator\bin\Debug\netcoreapp3.1\Functions_Calculator.runtimeconfig.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Functions_Calculator\Functions_Calculator\bin\Debug\netcoreapp3.1\Functions_Calculator.runtimeconfig.dev.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Functions_Calculator\Functions_Calculator\bin\Debug\netcoreapp3.1\Functions_Calculator.dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Functions_Calculator\Functions_Calculator\bin\Debug\netcoreapp3.1\Functions_Calculator.pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Functions_Calculator\Functions_Calculator\obj\Debug\netcoreapp3.1\Functions_Calculator.csproj.AssemblyReference.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Functions_Calculator\Functions_Calculator\obj\Debug\netcoreapp3.1\Functions_Calculator.AssemblyInfoInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Functions_Calculator\Functions_Calculator\obj\Debug\netcoreapp3.1\Functions_Calculator.AssemblyInfo.cs
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Functions_Calculator\Functions_Calculator\obj\Debug\netcoreapp3.1\Functions_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Functions_Calculator\Functions_Calculator\obj\Debug\netcoreapp3.1\Functions_Calculator.dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Functions_Calculator\Functions_Calculator\obj\Debug\netcoreapp3.1\Functions_Calculator.pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Functions_Calculator\Functions_Calculator\obj\Debug\netcoreapp3.1\Functions_Calculator.genruntimeconfig.cache

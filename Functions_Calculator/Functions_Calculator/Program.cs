@@ -6,93 +6,112 @@ namespace Functions_Calculator
     {
         static void Main(string[] args)
         {
-            DeveloperInformation("Majood Haddad", "MIS 3013", "7/26/2021");
+            DeveloperInformation("Majood Haddad", "MIS 3013", "7/27/2021");
 
-            string answer;
-            double value;
+            double value = 0;
+            double val1;
+            double val2;
 
-            do
+            while (true)
             {
-                Console.WriteLine("What is the first value you want to use in the calculation?");
-                double val1 = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("Would you like to: \n1) perform a calculation \n2) use a previous calculation in a new calculation \n3) exit the program");
+                int choice = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine();
 
-                Console.WriteLine("What is the second value you want to use in the calculation?");
-                double val2 = Convert.ToDouble(Console.ReadLine());
+                bool isFirstValue = true;
 
-                Console.WriteLine("What type of calculation do you want to perform? Addition? Subtraction? Multiplication? Division?");
-                string typeOfCalculation = Console.ReadLine().ToLower();
-
-                if (typeOfCalculation == "addition")
+                if (choice == 1 && isFirstValue)
                 {
-                    value = Add(val1, val2);
-                    Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");
+                    Console.WriteLine("What is the first value you want to use in the calculation?");
+                    val1 = Convert.ToDouble(Console.ReadLine());
+
+                    Console.WriteLine("What is the second value you want to use in the calculation?");
+                    val2 = Convert.ToDouble(Console.ReadLine());
+
+                    Console.WriteLine("What type of calculation do you want to perform? Addition? Subtraction? Multiplication? Division?");
+                    string typeOfCalculation = Console.ReadLine().ToLower();
+                    Console.WriteLine();
+
+                    if (typeOfCalculation == "addition")
+                    {
+                        value = Add(val1, val2);
+                        Console.Write("The answer to your calculation problem is ");
+                        Console.ForegroundColor = ConsoleColor.DarkCyan;
+                        Console.Write($"{value.ToString("N2")}");
+                    }
+                    else if (typeOfCalculation == "subtraction")
+                    {
+                        value = Subtract(val1, val2);
+                        Console.Write("The answer to your calculation problem is ");
+                        Console.ForegroundColor = ConsoleColor.DarkCyan;
+                        Console.Write($"{value.ToString("N2")}");
+                    }
+                    else if (typeOfCalculation == "multiplication")
+                    {
+                        value = Multiply(val1, val2);
+                        Console.Write("The answer to your calculation problem is ");
+                        Console.ForegroundColor = ConsoleColor.DarkCyan;
+                        Console.Write($"{value.ToString("N2")}");
+                    }
+                    else if (typeOfCalculation == "division")
+                    {
+                        value = Divide(val1, val2);
+                        Console.Write("The answer to your calculation problem is ");
+                        Console.ForegroundColor = ConsoleColor.DarkCyan;
+                        Console.Write($"{value.ToString("N2")}");
+                    }
+                    Console.WriteLine();
+                    isFirstValue = false;
+                    Console.ForegroundColor = ConsoleColor.White;
+
                 }
-                else if (typeOfCalculation == "subtraction")
+                else if (choice == 2)
                 {
-                    value = Subtract(val1, val2);
-                    Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");
+                    val1 = value;
+
+                    Console.WriteLine("What is the second value you want to use in the calculation?");
+                    val2 = Convert.ToDouble(Console.ReadLine());
+
+                    Console.WriteLine("What type of calculation do you want to perform? Addition? Subtraction? Multiplication? Division?");
+                    string typeOfCalculation = Console.ReadLine().ToLower();
+
+                    if (typeOfCalculation == "addition")
+                    {
+                        value = Add(val1, val2);
+                        Console.ForegroundColor = ConsoleColor.DarkCyan;
+                        Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");
+                    }
+                    else if (typeOfCalculation == "subtraction")
+                    {
+                        value = Subtract(val1, val2);
+                        Console.ForegroundColor = ConsoleColor.DarkCyan;
+                        Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");
+                    }
+                    else if (typeOfCalculation == "multiplication")
+                    {
+                        value = Multiply(val1, val2);
+                        Console.ForegroundColor = ConsoleColor.DarkCyan;
+                        Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");
+                    }
+                    else if (typeOfCalculation == "division")
+                    {
+                        value = Divide(val1, val2);
+                        Console.ForegroundColor = ConsoleColor.DarkCyan;
+                        Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");
+                    }
+                    Console.WriteLine();
+                    Console.ForegroundColor = ConsoleColor.White;
+
                 }
-                else if (typeOfCalculation == "multiplication")
+                else if (choice == 3)
                 {
-                    value = Multiply(val1, val2);
-                    Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");
-                }
-                else if (typeOfCalculation == "division")
-                {
-                    value = Divide(val1, val2);
-                    Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");
-                }
-
-                Console.WriteLine("Would you like to perform a new calcultion? yes or no?");
-                answer = Console.ReadLine().ToLower();
-
-            } while (answer == "yes");
-
-            Console.WriteLine("Would you like to use the result of the previous calculation as the first value in a new calculation? yes or no?");
-            answer = Console.ReadLine().ToLower();
-
-            if (answer == "yes")
-            {
-                double val1 = value;
-
-                Console.WriteLine("What is the second value you want to use in the calculation?");
-                double val2 = Convert.ToDouble(Console.ReadLine());
-
-                Console.WriteLine("What type of calculation do you want to perform? Addition? Subtraction? Multiplication? Division?");
-                string typeOfCalculation = Console.ReadLine().ToLower();
-
-                if (typeOfCalculation == "addition")
-                {
-                    value = Add(val1, val2);
-                    Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");
-                }
-                else if (typeOfCalculation == "subtraction")
-                {
-                    value = Subtract(val1, val2);
-                    Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");
-                }
-                else if (typeOfCalculation == "multiplicaation")
-                {
-                    value = Multiply(val1, val2);
-                    Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");
-                }
-                else if (typeOfCalculation == "division")
-                {
-                    value = Divide(val1, val2);
-                    Console.WriteLine($"The answer to your calculation problem is {value.ToString("N2")}");
-                }
-
-            }
-            else if (answer == "no")
-            {
-                Console.WriteLine("Would you wish to stop? yes or no?");
-                answer = Console.ReadLine().ToLower();
-
-                if (answer == "yes")
-                {
-                    Console.WriteLine("Thank you for using our service.");
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.WriteLine("Thank you for using our service. Have a great day!");
+                    Console.ForegroundColor = ConsoleColor.White;
                     Environment.Exit(0);
+                    Console.WriteLine();
                 }
+
             }
 
         }
@@ -129,8 +148,6 @@ namespace Functions_Calculator
         {
             Console.WriteLine($"{name} wrote this application for {course} on {date}.");
         }
-
-
 
     }
 }

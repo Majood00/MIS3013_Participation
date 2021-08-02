@@ -1,0 +1,14 @@
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\bin\Debug\netcoreapp3.1\Classes_Cereal_(read_in_a_File).exe
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\bin\Debug\netcoreapp3.1\Cereal_Data.txt
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\bin\Debug\netcoreapp3.1\Classes_Cereal_(read_in_a_File).deps.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\bin\Debug\netcoreapp3.1\Classes_Cereal_(read_in_a_File).runtimeconfig.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\bin\Debug\netcoreapp3.1\Classes_Cereal_(read_in_a_File).runtimeconfig.dev.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\bin\Debug\netcoreapp3.1\Classes_Cereal_(read_in_a_File).dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\bin\Debug\netcoreapp3.1\Classes_Cereal_(read_in_a_File).pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\obj\Debug\netcoreapp3.1\Classes_Cereal_(read_in_a_File).csproj.AssemblyReference.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\obj\Debug\netcoreapp3.1\Classes_Cereal_(read_in_a_File).AssemblyInfoInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\obj\Debug\netcoreapp3.1\Classes_Cereal_(read_in_a_File).AssemblyInfo.cs
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\obj\Debug\netcoreapp3.1\Classes_Cereal_(read_in_a_File).csproj.CoreCompileInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\obj\Debug\netcoreapp3.1\Classes_Cereal_(read_in_a_File).dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\obj\Debug\netcoreapp3.1\Classes_Cereal_(read_in_a_File).pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_Cereal_(read_in_a_File)\Classes_Cereal_(read_in_a_File)\obj\Debug\netcoreapp3.1\Classes_Cereal_(read_in_a_File).genruntimeconfig.cache

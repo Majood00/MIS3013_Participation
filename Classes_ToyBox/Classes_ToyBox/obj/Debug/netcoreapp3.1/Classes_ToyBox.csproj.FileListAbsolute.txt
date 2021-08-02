@@ -1,0 +1,13 @@
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_ToyBox\Classes_ToyBox\bin\Debug\netcoreapp3.1\Classes_ToyBox.exe
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_ToyBox\Classes_ToyBox\bin\Debug\netcoreapp3.1\Classes_ToyBox.deps.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_ToyBox\Classes_ToyBox\bin\Debug\netcoreapp3.1\Classes_ToyBox.runtimeconfig.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_ToyBox\Classes_ToyBox\bin\Debug\netcoreapp3.1\Classes_ToyBox.runtimeconfig.dev.json
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_ToyBox\Classes_ToyBox\bin\Debug\netcoreapp3.1\Classes_ToyBox.dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_ToyBox\Classes_ToyBox\bin\Debug\netcoreapp3.1\Classes_ToyBox.pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_ToyBox\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.csproj.AssemblyReference.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_ToyBox\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.AssemblyInfoInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_ToyBox\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.AssemblyInfo.cs
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_ToyBox\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.csproj.CoreCompileInputs.cache
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_ToyBox\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.dll
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_ToyBox\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.pdb
+C:\Users\majdh\source\repos\Majood00\MIS3013_Participation\Classes_ToyBox\Classes_ToyBox\obj\Debug\netcoreapp3.1\Classes_ToyBox.genruntimeconfig.cache

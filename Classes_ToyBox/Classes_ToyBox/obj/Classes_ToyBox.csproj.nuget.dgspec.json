@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\String_Manipulation\\String_Manipulation\\String_Manipulation.csproj": {}
+    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Classes_ToyBox\\Classes_ToyBox\\Classes_ToyBox.csproj": {}
   },
   "projects": {
-    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\String_Manipulation\\String_Manipulation\\String_Manipulation.csproj": {
+    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Classes_ToyBox\\Classes_ToyBox\\Classes_ToyBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\String_Manipulation\\String_Manipulation\\String_Manipulation.csproj",
-        "projectName": "String_Manipulation",
-        "projectPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\String_Manipulation\\String_Manipulation\\String_Manipulation.csproj",
+        "projectUniqueName": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Classes_ToyBox\\Classes_ToyBox\\Classes_ToyBox.csproj",
+        "projectName": "Classes_ToyBox",
+        "projectPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Classes_ToyBox\\Classes_ToyBox\\Classes_ToyBox.csproj",
         "packagesPath": "C:\\Users\\majdh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\String_Manipulation\\String_Manipulation\\obj\\",
+        "outputPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Classes_ToyBox\\Classes_ToyBox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\majdh\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -24,23 +24,12 @@ namespace Classes_ToyBox
         public Toy GetRandomToy()
         {
             Random rand = new Random();
-            int number = rand.Next(1, Toys.Count + 1);
+            int randomIndex = rand.Next(0, Toys.Count);
 
-            return Toys[number];
+            Toy randomToy =  Toys[randomIndex];
+
+            return randomToy;
         }
 
-        public override string ToString()
-        {
-            string output;
-
-            output = $"This toybox is owned by {Owner} who lives in {Location}. The toys are: ";
-
-            foreach (Toy toy in Toys)
-            {
-               output += $"\n{toy}";
-            }
-            
-            return output;
-        }
     }
 }

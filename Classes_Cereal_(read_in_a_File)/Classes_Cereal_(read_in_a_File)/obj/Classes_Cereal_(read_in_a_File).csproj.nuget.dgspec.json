@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File).csproj": {}
+    "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File).csproj": {}
   },
   "projects": {
-    "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File).csproj": {
+    "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File).csproj",
+        "projectUniqueName": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File).csproj",
         "projectName": "Classes_Cereal_(read_in_a_File)",
-        "projectPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File).csproj",
+        "projectPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File).csproj",
         "packagesPath": "C:\\Users\\majdh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majdh\\source\\repos\\Majood00\\MIS3013_Participation\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File)\\obj\\",
+        "outputPath": "C:\\Users\\majdh\\Source\\Repos\\Majood00\\MIS3013_Participation\\Classes_Cereal_(read_in_a_File)\\Classes_Cereal_(read_in_a_File)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\majdh\\AppData\\Roaming\\NuGet\\NuGet.Config",

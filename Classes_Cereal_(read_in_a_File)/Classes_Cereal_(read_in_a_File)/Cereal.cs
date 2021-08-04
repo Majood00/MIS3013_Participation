@@ -18,7 +18,7 @@ namespace Classes_Cereal__read_in_a_File_
         {
             Manufacturer = string.Empty;
 
-            Name = String.Empty;
+            Name = string.Empty;
 
             Calories = 0;
 
